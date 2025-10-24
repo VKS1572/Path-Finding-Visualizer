@@ -1,7 +1,7 @@
 #Pathfinding Visualizer
 
 Welcome to Pathfinding Visualizer! I created this tool out of fascination with pathfinding algorithms and a desire to see them in action. Enjoy exploring how these algorithms find paths in real time!
-👉 Try it here (use Google Chrome): https://VKS1572.github.io/Path-Finding-Visualizer/
+👉 Try it here (use Google Chrome):http://127.0.0.1:3000/Pathfinding-Visualizer-master/index.html
 
 
 Supported Algorithms
